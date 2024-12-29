@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) 2024 Electronic Arts.  All rights reserved.
+// Copyright (c) 2024 Electronic Arts.  All rights reserved.矩阵运算SVD分解和trace 和det和rotation inverse outerproduct diag
 //-----------------------------------------------------------------------------
 
 struct SVDResult
