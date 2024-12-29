@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) 2024 Electronic Arts.  All rights reserved.
+// Copyright (c) 2024 Electronic Arts.  All rights reserved.利用哈希算法，生成随机数
 //-----------------------------------------------------------------------------
 
 fn hash(input : u32) -> u32
