@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) 2024 Electronic Arts.  All rights reserved.
+// Copyright (c) 2024 Electronic Arts.  All rights reserved.碰撞检测和结果（圆形和方形）
 //-----------------------------------------------------------------------------
 
 //!include matrix.inc
