@@ -1,8 +1,10 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) 2024 Electronic Arts.  All rights reserved.
+// Copyright (c) 2024 Electronic Arts.  All rights reserved.设立了粒子的结构(有参数不确定deformationdisplacement和lamda andlogJp)
+设置了边界条件，防止离开边界
+设置了二次和三次的插值函数多项式类型
 //-----------------------------------------------------------------------------
 
-// Must be kept in sync with definition in gpu.js
+// Must be kept in sync with definition in gpu.js必须和gpu.js保持一致
 struct Particle
 {
     position : vec2f,
