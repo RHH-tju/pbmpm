@@ -1,5 +1,6 @@
 //-----------------------------------------------------------------------------
-// Copyright (c) 2024 Electronic Arts.  All rights reserved.
+// Copyright (c) 2024 Electronic Arts.  All rights reserved.粒子发射器
+
 //-----------------------------------------------------------------------------
 
 //!include dispatch.inc
